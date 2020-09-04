@@ -15,7 +15,7 @@ Smaller bakeries without access to industrial resources rely on the "poke test" 
 It is imperative to find a scientific relationship between the physical properties of the dough and the time required to ferment. This would eliminate the need for the intuition based "poke test" method. 
 
 An indicator of dough that is properly fermented is the volume the dough takes up.
-From a variety of experiments, it was determined that there was a strong correlation between the initial extensibility of the dough and the final its final volume once it has fully fermented. 
+From a variety of experiments, it was determined that there was a strong correlation between the initial extensibility of the dough and its final volume once it has fully fermented. 
 
 From these experiements, we designed a solution that first measures the extensibility of the dough and estimates the time remaining until it has reached the required volume. 
 
